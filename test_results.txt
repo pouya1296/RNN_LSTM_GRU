@@ -1,0 +1,437 @@
+T = 30
+lr = 0.001
+batch_size = 64
+epochs = 200
+clip_value = 5
+hidden_neurons = 20
+
+Epoch 1/200, Average Training Set Loss: 1.325140
+Epoch 1/200, Average Test Set Loss: 1.196859
+Epoch 10/200, Average Training Set Loss: 0.573820
+Epoch 10/200, Average Test Set Loss: 1.015398
+Epoch 20/200, Average Training Set Loss: 0.428173
+Epoch 20/200, Average Test Set Loss: 1.167957
+Epoch 30/200, Average Training Set Loss: 0.372847
+Epoch 30/200, Average Test Set Loss: 0.976722
+Epoch 40/200, Average Training Set Loss: 0.346503
+Epoch 40/200, Average Test Set Loss: 0.736069
+Epoch 50/200, Average Training Set Loss: 0.330915
+Epoch 50/200, Average Test Set Loss: 0.784592
+Epoch 60/200, Average Training Set Loss: 0.320088
+Epoch 60/200, Average Test Set Loss: 1.063215
+Epoch 70/200, Average Training Set Loss: 0.314743
+Epoch 70/200, Average Test Set Loss: 1.136174
+Epoch 80/200, Average Training Set Loss: 0.307845
+Epoch 80/200, Average Test Set Loss: 1.107554
+Epoch 90/200, Average Training Set Loss: 0.300052
+Epoch 90/200, Average Test Set Loss: 0.939085
+Epoch 100/200, Average Training Set Loss: 0.292964
+Epoch 100/200, Average Test Set Loss: 1.049331
+Epoch 110/200, Average Training Set Loss: 0.286996
+Epoch 110/200, Average Test Set Loss: 1.040013
+-----------------------------------------------
+T=20
+learning_rate=0.001
+batch_size=64
+clip_value=5
+hidden_layer_size=20
+
+Epoch 1/1000, Average Training Set Loss: 1.274222
+Epoch 1/1000, Average Test Set Loss: 1.075520
+Epoch 10/1000, Average Training Set Loss: 0.568365
+Epoch 10/1000, Average Test Set Loss: 1.002561
+Epoch 20/1000, Average Training Set Loss: 0.456810
+Epoch 20/1000, Average Test Set Loss: 0.754602
+Epoch 30/1000, Average Training Set Loss: 0.406795
+Epoch 30/1000, Average Test Set Loss: 0.761177
+Epoch 40/1000, Average Training Set Loss: 0.374650
+Epoch 40/1000, Average Test Set Loss: 0.685987
+Epoch 50/1000, Average Training Set Loss: 0.353338
+Epoch 50/1000, Average Test Set Loss: 0.657205
+Epoch 60/1000, Average Training Set Loss: 0.339478
+Epoch 60/1000, Average Test Set Loss: 0.636051
+Epoch 70/1000, Average Training Set Loss: 0.330283
+Epoch 70/1000, Average Test Set Loss: 0.747480
+Epoch 80/1000, Average Training Set Loss: 0.323277
+Epoch 80/1000, Average Test Set Loss: 0.705344
+Epoch 90/1000, Average Training Set Loss: 0.317429
+Epoch 90/1000, Average Test Set Loss: 0.661978
+Epoch 100/1000, Average Training Set Loss: 0.314196
+Epoch 100/1000, Average Test Set Loss: 0.682361
+Epoch 110/1000, Average Training Set Loss: 0.309059
+Epoch 110/1000, Average Test Set Loss: 0.768738
+----------------------------------------------------
+T = 15
+lr = 0.001
+batch_size = 64
+epochs = 200
+clip_value = 5
+hidden_neurons = 20
+
+Epoch 1/200, Average Training Set Loss: 1.364976
+Epoch 1/200, Average Test Set Loss: 1.216316
+Epoch 10/200, Average Training Set Loss: 0.572879
+Epoch 10/200, Average Test Set Loss: 0.712391
+Epoch 20/200, Average Training Set Loss: 0.471258
+Epoch 20/200, Average Test Set Loss: 0.727677
+Epoch 30/200, Average Training Set Loss: 0.428841
+Epoch 30/200, Average Test Set Loss: 0.674010
+Epoch 40/200, Average Training Set Loss: 0.409435
+Epoch 40/200, Average Test Set Loss: 0.688268
+Epoch 50/200, Average Training Set Loss: 0.395922
+Epoch 50/200, Average Test Set Loss: 0.668933
+Epoch 60/200, Average Training Set Loss: 0.382532
+Epoch 60/200, Average Test Set Loss: 0.642554
+Epoch 70/200, Average Training Set Loss: 0.370410
+Epoch 70/200, Average Test Set Loss: 0.646304
+Epoch 80/200, Average Training Set Loss: 0.360836
+Epoch 80/200, Average Test Set Loss: 0.689133
+Epoch 90/200, Average Training Set Loss: 0.353588
+Epoch 90/200, Average Test Set Loss: 0.698621
+----------------------------------------------------
+T = 10
+lr = 0.001
+batch_size = 64
+epochs = 200
+clip_value = 5
+hidden_neurons = 20
+
+Epoch 1/200, Average Training Set Loss: 1.283953
+Epoch 1/200, Average Test Set Loss: 1.134573
+Epoch 10/200, Average Training Set Loss: 0.646956
+Epoch 10/200, Average Test Set Loss: 0.863807
+Epoch 20/200, Average Training Set Loss: 0.558629
+Epoch 20/200, Average Test Set Loss: 0.804534
+Epoch 30/200, Average Training Set Loss: 0.516098
+Epoch 30/200, Average Test Set Loss: 0.831344
+Epoch 40/200, Average Training Set Loss: 0.492847
+Epoch 40/200, Average Test Set Loss: 0.836549
+Epoch 50/200, Average Training Set Loss: 0.479384
+Epoch 50/200, Average Test Set Loss: 0.770801
+Epoch 60/200, Average Training Set Loss: 0.468540
+Epoch 60/200, Average Test Set Loss: 0.813208
+Epoch 70/200, Average Training Set Loss: 0.459331
+Epoch 70/200, Average Test Set Loss: 0.816905
+Epoch 80/200, Average Training Set Loss: 0.452673
+Epoch 80/200, Average Test Set Loss: 0.786296
+Epoch 90/200, Average Training Set Loss: 0.447721
+Epoch 90/200, Average Test Set Loss: 0.804368
+Epoch 100/200, Average Training Set Loss: 0.443776
+Epoch 100/200, Average Test Set Loss: 0.766191
+Epoch 110/200, Average Training Set Loss: 0.440479
+Epoch 110/200, Average Test Set Loss: 0.808417
+Epoch 120/200, Average Training Set Loss: 0.437424
+Epoch 120/200, Average Test Set Loss: 0.747090
+----------------------------------------------------
+T = 15
+lr = 0.001
+batch_size = 64
+epochs = 200
+clip_value = 5
+hidden_neurons = 30
+
+Epoch 1/200, Average Training Set Loss: 1.311693
+Epoch 1/200, Average Test Set Loss: 1.133757
+Epoch 10/200, Average Training Set Loss: 0.482974
+Epoch 10/200, Average Test Set Loss: 0.715539
+Epoch 20/200, Average Training Set Loss: 0.387315
+Epoch 20/200, Average Test Set Loss: 0.738745
+Epoch 30/200, Average Training Set Loss: 0.344555
+Epoch 30/200, Average Test Set Loss: 0.738489
+Epoch 40/200, Average Training Set Loss: 0.317664
+Epoch 40/200, Average Test Set Loss: 0.715549
+Epoch 50/200, Average Training Set Loss: 0.296178
+Epoch 50/200, Average Test Set Loss: 0.700156
+Epoch 60/200, Average Training Set Loss: 0.283477
+Epoch 60/200, Average Test Set Loss: 0.681709
+Epoch 70/200, Average Training Set Loss: 0.274751
+Epoch 70/200, Average Test Set Loss: 0.686789
+Epoch 80/200, Average Training Set Loss: 0.266703
+Epoch 80/200, Average Test Set Loss: 0.680621
+Epoch 90/200, Average Training Set Loss: 0.258912
+Epoch 90/200, Average Test Set Loss: 0.682795
+Epoch 100/200, Average Training Set Loss: 0.252524
+Epoch 100/200, Average Test Set Loss: 0.735047
+------------------------------------------------------
+T = 15
+lr = 0.001
+batch_size = 64
+epochs = 200
+clip_value = 5
+hidden_neurons = 10
+
+Epoch 1/200, Average Training Set Loss: 1.387692
+Epoch 1/200, Average Test Set Loss: 1.206099
+Epoch 10/200, Average Training Set Loss: 0.692542
+Epoch 10/200, Average Test Set Loss: 0.783593
+Epoch 20/200, Average Training Set Loss: 0.650839
+Epoch 20/200, Average Test Set Loss: 0.752837
+Epoch 30/200, Average Training Set Loss: 0.627317
+Epoch 30/200, Average Test Set Loss: 0.792436
+Epoch 40/200, Average Training Set Loss: 0.607108
+Epoch 40/200, Average Test Set Loss: 0.765448
+Epoch 50/200, Average Training Set Loss: 0.588281
+Epoch 50/200, Average Test Set Loss: 0.785920
+Epoch 60/200, Average Training Set Loss: 0.572721
+Epoch 60/200, Average Test Set Loss: 0.770914
+Epoch 70/200, Average Training Set Loss: 0.558491
+Epoch 70/200, Average Test Set Loss: 0.892815
+Epoch 80/200, Average Training Set Loss: 0.551018
+Epoch 80/200, Average Test Set Loss: 0.778321
+Epoch 90/200, Average Training Set Loss: 0.546445
+Epoch 90/200, Average Test Set Loss: 0.793040
+---------------------------------------------------
+T = 15
+lr = 0.005
+batch_size = 64
+epochs = 200
+clip_value = 5
+hidden_neurons = 64
+drop_rate = 0.2
+l2 = 0.0005
+
+Epoch 1/200, Average Training Set Loss: 1.143376
+Epoch 1/200, Average Test Set Loss: 0.893225
+Epoch 10/200, Average Training Set Loss: 1.442870
+Epoch 10/200, Average Test Set Loss: 1.528867
+Epoch 20/200, Average Training Set Loss: 1.445954
+Epoch 20/200, Average Test Set Loss: 1.536478
+---------------------------------------------------
+T = 15
+lr = 0.001
+batch_size = 64
+epochs = 200
+clip_value = 5
+hidden_neurons = 64
+drop_rate = 0.25
+l2 = 0.001
+
+Epoch 1/200, Average Training Set Loss: 1.540552
+Epoch 1/200, Average Test Set Loss: 1.330840
+Epoch 10/200, Average Training Set Loss: 1.462900
+Epoch 10/200, Average Test Set Loss: 1.512209
+-----------------------------------------------------
+T = 15
+lr = 0.001
+batch_size = 64
+epochs = 200
+clip_value = 5
+hidden_neurons = 32
+drop_rate = 0.1
+l2 = 0.0001
+
+*** Best performing hyperparameters *** Took 2h 15m to train.
+
+Epoch 1/200, Average Training Set Loss: 1.416256
+Epoch 1/200, Average Test Set Loss: 1.213155
+Epoch 10/200, Average Training Set Loss: 0.717571
+Epoch 10/200, Average Test Set Loss: 0.712894
+Epoch 20/200, Average Training Set Loss: 0.663985
+Epoch 20/200, Average Test Set Loss: 0.662613
+Epoch 30/200, Average Training Set Loss: 0.628958
+Epoch 30/200, Average Test Set Loss: 0.652753
+Epoch 40/200, Average Training Set Loss: 0.602552
+Epoch 40/200, Average Test Set Loss: 0.637300
+Epoch 50/200, Average Training Set Loss: 0.580026
+Epoch 50/200, Average Test Set Loss: 0.616919
+Epoch 60/200, Average Training Set Loss: 0.563549
+Epoch 60/200, Average Test Set Loss: 0.596875
+Epoch 70/200, Average Training Set Loss: 0.550089
+Epoch 70/200, Average Test Set Loss: 0.593361
+Epoch 80/200, Average Training Set Loss: 0.540576
+Epoch 80/200, Average Test Set Loss: 0.572806
+Epoch 90/200, Average Training Set Loss: 0.534430
+Epoch 90/200, Average Test Set Loss: 0.568479
+Epoch 100/200, Average Training Set Loss: 0.528970
+Epoch 100/200, Average Test Set Loss: 0.555297
+Epoch 110/200, Average Training Set Loss: 0.524536
+Epoch 110/200, Average Test Set Loss: 0.567000
+Epoch 120/200, Average Training Set Loss: 0.520364
+Epoch 120/200, Average Test Set Loss: 0.564020
+------------------------------------------------
+T = 15
+lr = 0.001
+batch_size = 512
+epochs = 200
+clip_value = 5
+hidden_neurons = 35
+drop_rate = 0.1
+l2 = 0.0001
+
+Epoch 160/200, Train Loss: 0.602808, Val Loss: 0.613809
+Epoch 170/200, Train Loss: 0.597077, Val Loss: 0.611352
+Epoch 180/200, Train Loss: 0.592706, Val Loss: 0.605732
+Epoch 190/200, Train Loss: 0.586775, Val Loss: 0.606031
+Epoch 200/200, Train Loss: 0.582811, Val Loss: 0.598779
+--------------------------------------------------------
+T = 15
+lr = 0.001
+batch_size = 512
+epochs = 200
+clip_value = 5
+hidden_neurons = 25
+drop_rate = 0.1
+l2 = 0.0001
+
+Epoch 1/200, Train Loss: 1.809460, Val Loss: 1.564090
+Epoch 10/200, Train Loss: 1.078520, Val Loss: 1.070177
+Epoch 20/200, Train Loss: 0.884933, Val Loss: 0.855247
+Epoch 30/200, Train Loss: 0.812856, Val Loss: 0.791080
+Epoch 40/200, Train Loss: 0.766941, Val Loss: 0.741068
+Epoch 50/200, Train Loss: 0.738397, Val Loss: 0.698606
+Epoch 60/200, Train Loss: 0.719062, Val Loss: 0.681315
+Epoch 70/200, Train Loss: 0.704669, Val Loss: 0.670887
+Epoch 80/200, Train Loss: 0.693138, Val Loss: 0.666768
+-----------------------------------------------------------
+T = 15
+lr = 0.001
+batch_size = 512
+epochs = 200
+clip_value = 5
+hidden_neurons = 32
+drop_rate = 0.1
+l2 = 0.0001
+
+Epoch 1/200, Train Loss: 1.953596, Val Loss: 1.661561
+Epoch 10/200, Train Loss: 1.113031, Val Loss: 1.105627
+Epoch 20/200, Train Loss: 0.843270, Val Loss: 0.856284
+Epoch 30/200, Train Loss: 0.767478, Val Loss: 0.778134
+Epoch 40/200, Train Loss: 0.730584, Val Loss: 0.741463
+Epoch 50/200, Train Loss: 0.709292, Val Loss: 0.720858
+Epoch 60/200, Train Loss: 0.693944, Val Loss: 0.711004
+Epoch 70/200, Train Loss: 0.681471, Val Loss: 0.708869
+Epoch 80/200, Train Loss: 0.671749, Val Loss: 0.710926
+Epoch 90/200, Train Loss: 0.664415, Val Loss: 0.709986
+Epoch 100/200, Train Loss: 0.656442, Val Loss: 0.707865
+Epoch 110/200, Train Loss: 0.650870, Val Loss: 0.707084
+Epoch 120/200, Train Loss: 0.643505, Val Loss: 0.702154
+Epoch 130/200, Train Loss: 0.638493, Val Loss: 0.696084
+Epoch 140/200, Train Loss: 0.634580, Val Loss: 0.686926
+Epoch 150/200, Train Loss: 0.629034, Val Loss: 0.686673
+Epoch 160/200, Train Loss: 0.623628, Val Loss: 0.681349
+----------------------------------------------------------
+T = 35
+lr = 0.0005
+batch_size = 512
+epochs = 200
+clip_value = 5
+hidden_neurons = 32
+drop_rate = 0.2
+l2 = 0.0003
+
+Epoch 1/200, Train Loss: 2.025583, Val Loss: 1.844082
+Epoch 10/200, Train Loss: 1.345715, Val Loss: 1.304026
+Epoch 20/200, Train Loss: 1.163889, Val Loss: 1.148462
+Epoch 30/200, Train Loss: 1.001927, Val Loss: 0.935756
+Epoch 40/200, Train Loss: 0.890257, Val Loss: 0.793648
+Epoch 50/200, Train Loss: 0.843076, Val Loss: 0.773087
+Epoch 60/200, Train Loss: 0.816810, Val Loss: 0.764122
+Epoch 70/200, Train Loss: 0.797414, Val Loss: 0.758875
+Epoch 80/200, Train Loss: 0.781002, Val Loss: 0.754274
+----------------------------------------------------------
+T = 25
+lr = 0.001
+batch_size = 64
+epochs = 200
+clip_value = None
+clip_norm = 5
+hidden_neurons = 48
+drop_rate = 0.15
+l2 = 0.0002
+
+Epoch 1/200, Average Training Set Loss: 1.409049
+Epoch 1/200, Average Validation Set Loss: 1.203055
+Epoch 10/200, Average Training Set Loss: 0.712397
+Epoch 10/200, Average Validation Set Loss: 0.827339
+Epoch 20/200, Average Training Set Loss: 0.639036
+Epoch 20/200, Average Validation Set Loss: 0.666731
+Epoch 30/200, Average Training Set Loss: 0.597368
+Epoch 30/200, Average Validation Set Loss: 0.644404
+Epoch 40/200, Average Training Set Loss: 0.567077
+Epoch 40/200, Average Validation Set Loss: 0.621107
+----------------------AFTER ADDING ACCELERATION NORM-----
+T = 25
+lr = 0.001
+batch_size = 64
+epochs = 200
+clip_value = None
+clip_norm = 5
+hidden_neurons = 48
+drop_rate = 0.15
+l2 = 0.0002
+
+    ** GOOD CONFIG **
+
+Epoch 1/200, Average Training Set Loss: 1.395946
+Epoch 1/200, Average Validation Set Loss: 1.142748
+Epoch 10/200, Average Training Set Loss: 0.665458
+Epoch 10/200, Average Validation Set Loss: 0.747005
+Epoch 20/200, Average Training Set Loss: 0.605535
+Epoch 20/200, Average Validation Set Loss: 0.649154
+Epoch 30/200, Average Training Set Loss: 0.565382
+Epoch 30/200, Average Validation Set Loss: 0.618628
+Epoch 40/200, Average Training Set Loss: 0.539280
+Epoch 40/200, Average Validation Set Loss: 0.572049
+Epoch 50/200, Average Training Set Loss: 0.519233
+Epoch 50/200, Average Validation Set Loss: 0.542870
+Epoch 60/200, Average Training Set Loss: 0.504094
+Epoch 60/200, Average Validation Set Loss: 0.524582
+Epoch 61: Reducing LR to 0.000500
+Epoch 70/200, Average Training Set Loss: 0.495828
+Epoch 70/200, Average Validation Set Loss: 0.515674
+Epoch 80/200, Average Training Set Loss: 0.490414
+Epoch 80/200, Average Validation Set Loss: 0.512881
+Epoch 90/200, Average Training Set Loss: 0.484307
+Epoch 90/200, Average Validation Set Loss: 0.510998
+Epoch 91: Reducing LR to 0.000250
+Epoch 100/200, Average Training Set Loss: 0.480631
+Epoch 100/200, Average Validation Set Loss: 0.510352
+Epoch 110/200, Average Training Set Loss: 0.470257
+Epoch 110/200, Average Validation Set Loss: 0.504405
+-------------------------------------------------------
+T = 15
+lr = 0.001
+batch_size = 64
+epochs = 200
+clip_value = None
+clip_norm = 5
+hidden_neurons = 32
+drop_rate = 0.1
+l2 = 0.0001
+
+Epoch 1/200, Average Training Set Loss: 1.380284
+Epoch 1/200, Average Validation Set Loss: 1.202968
+Epoch 10/200, Average Training Set Loss: 0.687090
+Epoch 10/200, Average Validation Set Loss: 0.708252
+Epoch 20/200, Average Training Set Loss: 0.635124
+Epoch 20/200, Average Validation Set Loss: 0.673895
+Epoch 30/200, Average Training Set Loss: 0.605527
+Epoch 30/200, Average Validation Set Loss: 0.650228
+Epoch 40/200, Average Training Set Loss: 0.577875
+Epoch 40/200, Average Validation Set Loss: 0.620158
+Epoch 50/200, Average Training Set Loss: 0.554650
+Epoch 50/200, Average Validation Set Loss: 0.585561
+Epoch 60/200, Average Training Set Loss: 0.539663
+Epoch 60/200, Average Validation Set Loss: 0.568085
+Epoch 61: Reducing LR to 0.000500
+Epoch 70/200, Average Training Set Loss: 0.531036
+Epoch 70/200, Average Validation Set Loss: 0.564492
+Epoch 80/200, Average Training Set Loss: 0.525439
+Epoch 80/200, Average Validation Set Loss: 0.565654
+Epoch 90/200, Average Training Set Loss: 0.520791
+Epoch 90/200, Average Validation Set Loss: 0.567913
+Epoch 91: Reducing LR to 0.000250
+Epoch 100/200, Average Training Set Loss: 0.517504
+Epoch 100/200, Average Validation Set Loss: 0.563006
+Epoch 110/200, Average Training Set Loss: 0.514927
+Epoch 110/200, Average Validation Set Loss: 0.563282
+Epoch 120/200, Average Training Set Loss: 0.512446
+Epoch 120/200, Average Validation Set Loss: 0.558993
+Epoch 121: Reducing LR to 0.000125
+Epoch 130/200, Average Training Set Loss: 0.511127
+Epoch 130/200, Average Validation Set Loss: 0.561061
+Epoch 140/200, Average Training Set Loss: 0.510257
+Epoch 140/200, Average Validation Set Loss: 0.560869
+Epoch 150/200, Average Training Set Loss: 0.509814
+Epoch 150/200, Average Validation Set Loss: 0.558546
+Epoch 151: Reducing LR to 0.000063

@@ -1,0 +1,12 @@
+# IntelliJ / JetBrains
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Other common residues
+*.swp
+*.swo
+*~
+.DS_Store
